@@ -1,6 +1,6 @@
 ### Hi there, I'm Arpit Kumar👋
 
-- 🎉 Launched My Startup [WEBNODITES] [webnodites]
+- 🎉 Launched My Startup [WEBNODITES]
 - 📘 I’m currently learning everything.🤣
 - 👯 I’m looking to collaborate with others.
 - 🎯 2021 Goals: Contribute more to Society.
