@@ -24,3 +24,23 @@
 [twitter]: https://twitter.com/being_arpitk
 [whatsapp]: https://api.whatsapp.com/send?phone=+91-9799791655
 [github]: https://github.com/arpitk02
+
+<br />
+
+### Languages and Tools:
+
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="images/visual.png" />]
+[<img align="left" alt="HTML5" width="26px" src="images/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="images/css.png">]
+[<img align="left" alt="JavaScript" width="26px" src="images/javascript.png" />]
+[<img align="left" alt="MySQL" width="26px" src="images/mysql.png" />]
+[<img align="left" alt="PHP" width="26px" src="images/php.png" />]
+[<img align="left" alt="Wordpress" width="26px" src="images/wordpress.png" />]
+[<img align="left" alt="GitHub" width="26px" src="images/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="images/terminal.png" />]
+
+<br />
+<br />
+
+ <img align="left" alt="Arpit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arpitk02&show_icons=true&hide_border=true" />
