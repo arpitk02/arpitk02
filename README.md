@@ -15,7 +15,6 @@
 [<img align="left" alt="Instagram" width="22px" src="images/instagram.png" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="images/twitter.png" />][twitter]
 [<img align="left" alt="Whatsapp" width="22px" src="images/whatsapp.png" />][whatsapp]
-[<img align="left" alt="Github" width="22px" src="images/github.png" />][github]
 
 [webnodites]: https://webnodites.in
 [linkedin]: https://www.linkedin.com/in/ak0201/
@@ -23,7 +22,6 @@
 [instagram]: https://www.instagram.com/being_arpitk/
 [twitter]: https://twitter.com/being_arpitk
 [whatsapp]: https://api.whatsapp.com/send?phone=+91-9799791655
-[github]: https://github.com/arpitk02
 
 <br />
 
