@@ -11,10 +11,10 @@
 
 
 [<img align="left" alt="Linkedin" width="22px" src="images/linkedin.png" />][linkedin]
-[<img align="left" alt="Facebook" width="22px" src="images/linkedin.png">][facebook]
-[<img align="left" alt="Instagram" width="22px" src="images/linkedin.png" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="images/linkedin.png" />][twitter]
-[<img align="left" alt="Whatsapp" width="22px" src="images/linkedin.png" />][whatsapp]
+[<img align="left" alt="Facebook" width="22px" src="images/facebook.png">][facebook]
+[<img align="left" alt="Instagram" width="22px" src="images/instagram.png" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="images/twitter.png" />][twitter]
+[<img align="left" alt="Whatsapp" width="22px" src="images/whatsapp.png" />][whatsapp]
 [<img align="left" alt="Github" width="22px" src="images/github.png" />][github]
 
 [webnodites]: https://webnodites.in
