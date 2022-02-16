@@ -2,7 +2,7 @@
 
 - 📘 I’m currently learning everything.🤣
 - 👯 I’m looking to collaborate with others.
-- 🎯 2021 Goals: Contribute more to Society.
+- 🎯 2022 Goals: Contribute more to Society.
 - 💬 Ask me about (Websites)😁
 
 
